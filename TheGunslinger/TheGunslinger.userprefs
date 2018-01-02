@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7FB5296E-57BE-420D-B3A5-69D7AC09934B}|Default">
+  <MonoDevelop.Ide.ItemProperties.TheGunslinger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheGunslinger/Story.cs">
+    <Files>
+      <File FileName="TheGunslinger/Program.cs" Line="4" Column="13" />
+      <File FileName="TheGunslinger/Story.cs" Line="8" Column="26" />
+      <File FileName="TheGunslinger/State.cs" Line="1" Column="1" />
+      <File FileName="TheGunslinger/Roland.cs" Line="12" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

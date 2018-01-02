@@ -1,0 +1,11 @@
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/bin/Debug/netcoreapp2.0/TheGunslinger.deps.json
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/bin/Debug/netcoreapp2.0/TheGunslinger.runtimeconfig.json
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/bin/Debug/netcoreapp2.0/TheGunslinger.runtimeconfig.dev.json
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/bin/Debug/netcoreapp2.0/TheGunslinger.dll
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/bin/Debug/netcoreapp2.0/TheGunslinger.pdb
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/obj/Debug/netcoreapp2.0/TheGunslinger.csprojResolveAssemblyReference.cache
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/obj/Debug/netcoreapp2.0/TheGunslinger.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/obj/Debug/netcoreapp2.0/TheGunslinger.AssemblyInfoInputs.cache
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/obj/Debug/netcoreapp2.0/TheGunslinger.AssemblyInfo.cs
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/obj/Debug/netcoreapp2.0/TheGunslinger.dll
+/Users/admin/Desktop/TheGunslinger/TheGunslinger/obj/Debug/netcoreapp2.0/TheGunslinger.pdb
